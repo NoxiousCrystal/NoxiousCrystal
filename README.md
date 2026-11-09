@@ -1,16 +1,16 @@
-## Hi there 👋
+# 🧪 Welcome to Blackrock's Elite Domain. 
 
-<!--
-**NoxiousCrystal/NoxiousCrystal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+"Progress requires sacrifice. Mostly yours." 
 
-Here are some ideas to get you started:
+🔬 **Head of the Robotics Division** | KORBLOX Administration  
+💎 **Chief Crystal Architect** | Bio-Organic Weaponry Enthusiast  
+🚫 **Medkit Hater #1** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⚙️ CURRENT PROJECTS (Classified)
+*   **Biograft Optimization:** Tweaking the Gamma Biograft units so they stop letting lesser Phighters survive.
+*   **The Rot Documentation:** Studying my own glorious cellular decay because regular flesh is boring anyway.
+*   **Tripmine Layouts:** Planting toxic surprises everywhere just to watch the tanks choke on Vulnerability.
+
+### 🛠️ CORE SPECIFICATIONS
