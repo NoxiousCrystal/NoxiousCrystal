@@ -2,10 +2,10 @@
 
 ```diff
 + "PROGRESS REQUIRES SACRIFICE. MOSTLY YOURS."
-- SYSTEM WARNING: OBSERVE THE BOUNDARIES BELOW OR FACE IMMEDIATE DISINTEGRATION.
+- SYSTEM WARNING: OBSERVE THE BOUNDARIES BELOW.
 ```
 
-### 👁‍_👁 IDENTIFICATION & CORE CORE SPECIFICATIONS
+### 🔬 IDENTIFICATION & CORE CORE SPECIFICATIONS
 
 ```json
 {
@@ -39,7 +39,7 @@
 - IF YOU FALL UNDER ANY OF THESE CATEGORIES, EXTERMINATION IS IMMINENT:
 ```
 * **Bigots:** Homophobes, transphobes, racists, ableists, sexists.
-* **Proshippers:** Darkshippers, loli/shotacons.
+* **Proshippers:** Loli/shotacons.
 * **Political:** MAGA supporters.
 * **Tech-Thieves:** AI slop makers.
 * **ProREJECTED Ships:** Romantic subgraft, shurishotstaff, domvalk, medsword. DNI DNI DNI EW EW EW
@@ -69,7 +69,7 @@
 ### 💬 MEMORANDUMS 
 
 * **On Orientation:** I'm pansexual and aroace. Is this important information? Probably not, but now it is logged in the mainframe. (≖‿≖)
-* **Final Directive:** I am also agender. Anyways, do not touch the code. 
+* **Final Directive:** I am also agender. Do not touch the code. It is highly volatile.
 
 ```diff
 - PROTOCOL END. YOU MAY NOW INTERACT. WITH CAUTION.
