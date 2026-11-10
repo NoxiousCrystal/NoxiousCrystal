@@ -69,7 +69,7 @@
 ### 💬 MEMORANDUMS 
 
 * **On Orientation:** I'm pansexual and aroace. Is this important information? Probably not, but now it is logged in the mainframe. (≖‿≖)
-* **Final Directive:** I am also agender. Do not touch the code. It is highly volatile.
+* **Final Directive:** I am also agenderflux and bigender.
 
 ```diff
 - PROTOCOL END. YOU MAY NOW INTERACT. WITH CAUTION.
